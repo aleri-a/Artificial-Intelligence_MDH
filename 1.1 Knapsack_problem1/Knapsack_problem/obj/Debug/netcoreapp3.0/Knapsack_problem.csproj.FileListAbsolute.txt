@@ -1,0 +1,11 @@
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\bin\Debug\netcoreapp3.0\Knapsack_problem.exe
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\bin\Debug\netcoreapp3.0\Knapsack_problem.deps.json
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\bin\Debug\netcoreapp3.0\Knapsack_problem.runtimeconfig.json
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\bin\Debug\netcoreapp3.0\Knapsack_problem.runtimeconfig.dev.json
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\bin\Debug\netcoreapp3.0\Knapsack_problem.dll
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\bin\Debug\netcoreapp3.0\Knapsack_problem.pdb
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\obj\Debug\netcoreapp3.0\Knapsack_problem.AssemblyInfoInputs.cache
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\obj\Debug\netcoreapp3.0\Knapsack_problem.AssemblyInfo.cs
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\obj\Debug\netcoreapp3.0\Knapsack_problem.dll
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\obj\Debug\netcoreapp3.0\Knapsack_problem.pdb
+D:\D particija\SANJA\VIII sweden\AI\lab\Knapsack_problem\Knapsack_problem\obj\Debug\netcoreapp3.0\Knapsack_problem.csprojAssemblyReference.cache
