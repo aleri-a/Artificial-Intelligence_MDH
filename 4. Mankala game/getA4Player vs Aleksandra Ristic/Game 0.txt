@@ -1,0 +1,196 @@
+001  getA4Player moved 3 in 0.03291201591491699 sec.
+
+0     4 4 4 4 4 4
+
+      4 4 0 5 5 5    1
+
+001  getA4Player moved 4 in 0.02592945098876953 sec.
+
+0     4 4 4 4 5 5
+
+      4 4 0 0 6 6    2
+
+001  Aleksandra Ristic moved 3 in 0.03194832801818848 sec.
+
+1     5 5 5 0 5 5
+
+      4 4 0 0 6 6    2
+
+001  Aleksandra Ristic moved 2 in 0.034906625747680664 sec.
+
+2     6 6 6 1 0 5
+
+      4 4 0 0 6 6    2
+
+001  Aleksandra Ristic moved 3 in 0.025929927825927734 sec.
+
+2     6 6 7 0 0 5
+
+      4 4 0 0 6 6    2
+
+001  getA4Player moved 1 in 0.024931907653808594 sec.
+
+2     6 6 7 0 0 5
+
+      0 5 1 1 7 6    2
+
+001  Aleksandra Ristic moved 5 in 0.011968851089477539 sec.
+
+3     7 0 7 0 0 5
+
+      1 6 2 2 7 6    2
+
+001  getA4Player moved 1 in 0.017984628677368164 sec.
+
+3     7 0 7 0 0 5
+
+      0 7 2 2 7 6    2
+
+001  Aleksandra Ristic moved 1 in 0.017950057983398438 sec.
+
+3     8 1 8 1 1 0
+
+      0 7 2 2 7 6    2
+
+001  getA4Player moved 2 in 0.02393794059753418 sec.
+
+3     8 1 8 1 2 1
+
+      0 0 3 3 8 7    3
+
+001  Aleksandra Ristic moved 4 in 0.03187680244445801 sec.
+
+4     9 2 0 1 2 1
+
+      1 1 4 4 9 7    3
+
+001  getA4Player moved 3 in 0.028922080993652344 sec.
+
+4     9 2 0 1 2 1
+
+      1 1 0 5 10 8    4
+
+001  getA4Player moved 5 in 0.02795124053955078 sec.
+
+4     10 3 1 2 3 2
+
+      2 2 0 5 0 9    5
+
+001  Aleksandra Ristic moved 3 in 0.02593064308166504 sec.
+
+4     10 4 2 0 3 2
+
+      2 2 0 5 0 9    5
+
+001  getA4Player moved 1 in 0.024933815002441406 sec.
+
+4     10 4 0 0 3 2
+
+      0 3 0 5 0 9    8
+
+001  Aleksandra Ristic moved 6 in 0.018948078155517578 sec.
+
+12     0 4 0 0 4 3
+
+       1 4 1 0 1 10    8
+
+001  getA4Player moved 3 in 0.028922080993652344 sec.
+
+12     0 4 0 0 4 3
+
+       1 4 0 1 1 10    8
+
+001  Aleksandra Ristic moved 2 in 0.030917644500732422 sec.
+
+14     0 5 1 1 0 3
+
+       0 4 0 1 1 10    8
+
+001  getA4Player moved 6 in 0.024933338165283203 sec.
+
+14     1 6 0 2 1 4
+
+       1 5 0 1 1 0    12
+
+001  Aleksandra Ristic moved 5 in 0.024933338165283203 sec.
+
+15     2 0 0 2 1 4
+
+       2 6 1 2 1 0    12
+
+001  getA4Player moved 4 in 0.024932146072387695 sec.
+
+15     2 0 0 2 1 0
+
+       2 6 1 0 2 0    17
+
+001  Aleksandra Ristic moved 3 in 0.02895069122314453 sec.
+
+22     2 0 1 0 1 0
+
+       2 0 1 0 2 0    17
+
+001  getA4Player moved 5 in 0.01796245574951172 sec.
+
+22     2 0 1 0 1 0
+
+       2 0 1 0 0 1    18
+
+001  getA4Player moved 3 in 0.022936344146728516 sec.
+
+22     2 0 1 0 1 0
+
+       2 0 0 1 0 1    18
+
+001  Aleksandra Ristic moved 6 in 0.023936986923217773 sec.
+
+23     0 0 1 0 1 0
+
+       3 0 0 1 0 1    18
+
+001  getA4Player moved 4 in 0.022937774658203125 sec.
+
+23     0 0 1 0 0 0
+
+       3 0 0 0 0 1    20
+
+001  Aleksandra Ristic moved 4 in 0.0169525146484375 sec.
+
+23     0 1 0 0 0 0
+
+       3 0 0 0 0 1    20
+
+001  getA4Player moved 1 in 0.029918909072875977 sec.
+
+23     0 1 0 0 0 0
+
+       0 1 1 1 0 1    20
+
+001  Aleksandra Ristic moved 5 in 0.017945051193237305 sec.
+
+23     1 0 0 0 0 0
+
+       0 1 1 1 0 1    20
+
+001  getA4Player moved 6 in 0.022937297821044922 sec.
+
+23     1 0 0 0 0 0
+
+       0 1 1 1 0 0    21
+
+001  getA4Player moved 2 in 0.026957988739013672 sec.
+
+23     1 0 0 0 0 0
+
+       0 0 2 1 0 0    21
+
+001  Aleksandra Ristic moved 6 in 0.01795172691345215 sec.
+
+24     0 0 0 0 0 0
+
+       0 0 2 1 0 0    21
+
+000  The game ended correctly. getA4Player: 24 Aleksandra Ristic: 24
+
+000  Draw!
+

@@ -1,0 +1,8 @@
+﻿  Makao-Backtracking.cpp
+D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Makao-Backtracking\ReadingFile.h(24,23): warning C4018: '<': signed/unsigned mismatch
+D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Makao-Backtracking\Makao-Backtracking.cpp(37,14): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Makao-Backtracking\Makao-Backtracking.cpp(37,14): warning C4244:         with
+D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Makao-Backtracking\Makao-Backtracking.cpp(37,14): warning C4244:         [
+D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Makao-Backtracking\Makao-Backtracking.cpp(37,14): warning C4244:             _Rep=__int64
+D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Makao-Backtracking\Makao-Backtracking.cpp(37,14): warning C4244:         ]
+  Makao-Backtracking.vcxproj -> D:\D particija\SANJA\VIII sweden\AI\KRAJ LABOVA\Aleksandra_Ristic_Assignment2_Code\Debug\Makao-Backtracking.exe

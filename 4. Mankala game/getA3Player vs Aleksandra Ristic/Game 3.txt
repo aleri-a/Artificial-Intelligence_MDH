@@ -1,0 +1,124 @@
+001  Aleksandra Ristic moved 3 in 0.026909351348876953 sec.
+
+1     5 5 5 0 4 4
+
+      4 4 4 4 4 4    0
+
+001  Aleksandra Ristic moved 5 in 0.024932384490966797 sec.
+
+2     6 0 5 0 4 4
+
+      5 5 5 4 4 4    0
+
+001  getA3Player moved 5 in 0.017951488494873047 sec.
+
+2     6 0 5 0 5 5
+
+      5 5 5 4 0 5    1
+
+001  Aleksandra Ristic moved 2 in 0.025927066802978516 sec.
+
+3     7 1 6 1 0 5
+
+      5 5 5 4 0 5    1
+
+001  Aleksandra Ristic moved 4 in 0.025923967361450195 sec.
+
+4     8 2 0 1 0 5
+
+      6 6 6 4 0 5    1
+
+001  getA3Player moved 4 in 0.017953157424926758 sec.
+
+4     8 2 0 1 0 6
+
+      6 6 6 0 1 6    2
+
+001  Aleksandra Ristic moved 5 in 0.0348811149597168 sec.
+
+5     9 0 0 1 0 6
+
+      6 6 6 0 1 6    2
+
+001  Aleksandra Ristic moved 3 in 0.01894831657409668 sec.
+
+12     9 0 0 0 0 6
+
+       6 6 0 0 1 6    2
+
+001  getA3Player moved 6 in 0.011960506439208984 sec.
+
+12     9 1 1 1 1 7
+
+       6 6 0 0 1 0    3
+
+001  Aleksandra Ristic moved 1 in 0.03191423416137695 sec.
+
+13     10 2 2 2 2 0
+
+       7 6 0 0 1 0    3
+
+001  getA3Player moved 1 in 0.011967897415161133 sec.
+
+13     10 2 2 2 2 1
+
+       0 7 1 1 2 1    4
+
+001  Aleksandra Ristic moved 5 in 0.01894831657409668 sec.
+
+14     11 0 2 2 2 1
+
+       0 7 1 1 2 1    4
+
+001  Aleksandra Ristic moved 3 in 0.02393031120300293 sec.
+
+22     11 0 3 0 2 1
+
+       0 0 1 1 2 1    4
+
+001  getA3Player moved 4 in 0.017951011657714844 sec.
+
+22     11 0 3 0 2 1
+
+       0 0 1 0 3 1    4
+
+001  Aleksandra Ristic moved 4 in 0.01994609832763672 sec.
+
+23     12 1 0 0 2 1
+
+       0 0 1 0 3 1    4
+
+001  Aleksandra Ristic moved 2 in 0.023935794830322266 sec.
+
+25     12 1 0 1 0 1
+
+       0 0 0 0 3 1    4
+
+001  getA3Player moved 6 in 0.01195383071899414 sec.
+
+25     12 1 0 1 0 1
+
+       0 0 0 0 3 0    5
+
+001  getA3Player moved 5 in 0.02393507957458496 sec.
+
+25     12 1 0 1 0 2
+
+       0 0 0 0 0 1    6
+
+001  Aleksandra Ristic moved 5 in 0.01795220375061035 sec.
+
+25     13 0 0 1 0 2
+
+       0 0 0 0 0 1    6
+
+001  getA3Player moved 6 in 0.023935556411743164 sec.
+
+25     13 0 0 1 0 2
+
+       0 0 0 0 0 0    7
+
+000  The game ended correctly. getA3Player: 7 Aleksandra Ristic: 41
+
+000  Aleksandra Ristic win!
+

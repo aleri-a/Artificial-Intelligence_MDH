@@ -1,0 +1,76 @@
+001  Aleksandra Ristic moved 3 in 0.026927709579467773 sec.
+
+1     5 5 5 0 4 4
+
+      4 4 4 4 4 4    0
+
+001  Aleksandra Ristic moved 5 in 0.030905961990356445 sec.
+
+2     6 0 5 0 4 4
+
+      5 5 5 4 4 4    0
+
+001  getA3Player moved 1 in 0.023936986923217773 sec.
+
+2     6 0 5 0 4 4
+
+      0 6 6 5 5 5    0
+
+001  Aleksandra Ristic moved 1 in 0.024933338165283203 sec.
+
+9     6 0 6 1 5 0
+
+      0 0 6 5 5 5    0
+
+001  getA3Player moved 6 in 0.017952680587768555 sec.
+
+9     6 0 7 2 6 1
+
+      0 0 6 5 5 0    1
+
+001  Aleksandra Ristic moved 3 in 0.0249330997467041 sec.
+
+9     6 1 8 0 6 1
+
+      0 0 6 5 5 0    1
+
+001  getA3Player moved 3 in 0.02393627166748047 sec.
+
+9     6 1 8 0 7 2
+
+      0 0 0 6 6 1    2
+
+001  Aleksandra Ristic moved 1 in 0.019945859909057617 sec.
+
+16     6 1 8 0 8 0
+
+       0 0 0 0 6 1    2
+
+001  getA3Player moved 6 in 0.017945051193237305 sec.
+
+16     6 1 8 0 8 0
+
+       0 0 0 0 6 0    3
+
+001  getA3Player moved 5 in 0.01795172691345215 sec.
+
+16     6 1 9 1 9 1
+
+       0 0 0 0 0 1    4
+
+001  Aleksandra Ristic moved 5 in 0.024934053421020508 sec.
+
+16     7 0 9 1 9 1
+
+       0 0 0 0 0 1    4
+
+001  getA3Player moved 6 in 0.022970199584960938 sec.
+
+16     7 0 9 1 9 1
+
+       0 0 0 0 0 0    5
+
+000  The game ended correctly. getA3Player: 5 Aleksandra Ristic: 43
+
+000  Aleksandra Ristic win!
+

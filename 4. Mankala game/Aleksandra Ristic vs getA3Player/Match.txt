@@ -1,0 +1,42 @@
+000  Game 0
+
+002  Aleksandra Ristic 38 - 10 getA3Player
+
+000  Game 1
+
+002  getA3Player 9 - 39 Aleksandra Ristic
+
+000  Game 2
+
+002  Aleksandra Ristic 35 - 13 getA3Player
+
+000  Game 3
+
+002  getA3Player 9 - 39 Aleksandra Ristic
+
+000  Game 4
+
+002  Aleksandra Ristic 41 - 7 getA3Player
+
+000  Game 5
+
+002  getA3Player 14 - 34 Aleksandra Ristic
+
+000  Game 6
+
+002  Aleksandra Ristic 39 - 9 getA3Player
+
+000  Game 7
+
+002  getA3Player 18 - 30 Aleksandra Ristic
+
+000  Game 8
+
+002  Aleksandra Ristic 40 - 8 getA3Player
+
+000  Game 9
+
+002  getA3Player 18 - 30 Aleksandra Ristic
+
+Aleksandra Ristic won 10 games. getA3Player won 0 games. There were 0 draws.
+
